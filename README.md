@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="logo-postgres"/>  
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="logo-mysql"/>  
 
-:blue_book: No momento estou aprofundando meus conhecimentos na área de Programação.<br>
+:blue_book: No momento estou aprofundando meus conhecimentos na área de Programação no DevClub com aulas do Rodolfo Mori..<br>
 :computer: Atualmente estou criando projetos em HTML, CSS e iniciando no JavaScript.<br>
-:trophy: Pretendo me tornar um Desenvolvedor Web (Front-End + Back-End).
+:trophy: Pretendo me tornar um Desenvolvedor Web. (Front-End + Back-End).
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
