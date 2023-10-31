@@ -1,5 +1,5 @@
 :wave: Olá, me chamo Luis Felipe Giovanella.<br>
-:mortar_board: Sou formado em Análise e Desenvolvimento de Sistemas.<br>
+:mortar_board: Sou formado em Análise e Desenvolvimento de Sistemas e Técnico em Informática.<br>
 
 - Programação Desktop:<br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="logo-java"/>
